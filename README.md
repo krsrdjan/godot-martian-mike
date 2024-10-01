@@ -1,2 +1,3 @@
-# godot-platformer-game
-Godot 4 game engine POC small 2D platformer game
+# Godot platformer game
+
+This is small POC project for Godot 4 game engine. It is 2D platformer game with single level.
